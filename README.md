@@ -42,6 +42,8 @@ Desarrollador de software y especialista en aseguramiento de calidad con experie
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS_Foundations-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP_Foundations-232F3E?style=for-the-badge&logo=googlegcp&logoColor=white)
+![OCI](https://img.shields.io/badge/OCI_Foundations-232F3E?style=for-the-badge&logo=oracleoci&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ---
